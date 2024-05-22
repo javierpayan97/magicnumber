@@ -17,7 +17,6 @@ def random_number(min_number,max_number):
     random_n = random.randint(min_number,max_number)
     return random_n
 
-
 min_number=0
 max_number=10
 number = 0
